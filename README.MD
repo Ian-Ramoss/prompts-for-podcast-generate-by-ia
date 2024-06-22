@@ -22,10 +22,9 @@
     preview do podcast
 </p>
 
-<div align="center">
-    <audio src="output/Podcast_vf.mp4" controls title="Podcast editado"></audio>
-- ["Podcast"](https://github.com/Ian-Ramoss/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast_vf.mp4)
-</div> 
+- [Podcast](https://github.com/Ian-Ramoss/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast_vf.mp4)
+
+
 # Projeto Podcast Gerado por I.A.s
 
 
