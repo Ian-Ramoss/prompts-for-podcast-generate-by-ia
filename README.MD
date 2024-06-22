@@ -19,10 +19,12 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Preview do podcast
 </p>
 
 - [Podcast](output/Podcast_vf.mp4)
+
+Obs.: Devido limitações da plataforma, é necessário fazer o download do conteúdo para conseguir visualizá-lo.
 
 
 # Projeto Podcast Gerado por I.A.s
