@@ -24,8 +24,8 @@
 
 <div align="center">
     <audio src="output/Podcast_vf.mp4" controls title="Podcast editado"></audio>
+- ["Podcast"](https://github.com/Ian-Ramoss/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast_vf.mp4)
 </div> 
-
 # Projeto Podcast Gerado por I.A.s
 
 
@@ -34,6 +34,8 @@
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+
+Obs.: Fiz em um modelo diferente, mas que particurlarmente achei interessante. Espero que gostem!
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -83,7 +85,5 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 </p>
 <br/><br/>
 <p>
-
----
 
 ⌨️ com 💜 por [Ian Ramos](https://github.com/Ian-Ramoss)
