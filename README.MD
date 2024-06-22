@@ -22,7 +22,7 @@
     preview do podcast
 </p>
 
-- [Podcast](https://github.com/Ian-Ramoss/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast_vf.mp4)
+- [Podcast](output/Podcast_vf.mp4)
 
 
 # Projeto Podcast Gerado por I.A.s
